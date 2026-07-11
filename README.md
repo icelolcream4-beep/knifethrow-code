@@ -11,3 +11,6 @@ SparkFun Brushless Motor Driver - 3-Phase (TMC6300)
 GR1102 10000KV Brushless Motor
 
 530 mAH 3.8v battery
+
+# extra stuff
+my main code editor is ardunioIDE, i will use this to publish my finished result after each code session.
